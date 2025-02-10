@@ -1,4 +1,0 @@
-This is a sample file.
-It contains multiple lines.
-Each line has words and characters.
-Python is great for text processing!

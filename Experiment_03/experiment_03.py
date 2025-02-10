@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    with open('./file.txt', 'r') as file:
+    with open('./Bhavya(info).txt', 'r') as file:
         lines = file.readlines()
 
         numberOfLines = len(lines)
